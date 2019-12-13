@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerSample</string>
+    <string-array name="noteList">
+        <item>ド</item>
+        <item>レ</item>
+        <item>ミ</item>
+        <item>ﾌｧ</item>
+        <item>ソ</item>
+        <item>ラ</item>
+        <item>シ</item>
+        <item>ド</item>
+    </string-array>
+</resources>
